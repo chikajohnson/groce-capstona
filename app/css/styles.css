@@ -1,7 +1,32 @@
 .page-header{
-    margin-top: 50px;
+ /* margin-top: 50px; */
+ margin-bottom: 5px;
     padding-top: 10px;
     width:90%;
+    border-bottom: 2px solid #18bc9c
+}
+.padder{
+    padding: 0 5px 15px 5px;
+    color: #206d5d;    
+}
+
+.padder h5{
+    font-weight: 300;
+    font-size:1.1em;
+    margin-bottom: 0px;
+}
+#accordion li{
+    border-left: none;
+    border-right: none;
+
+}
+#accordion li:first-child{
+    border-top: none;
+    padding-top: 0;
+}
+
+#accordion a{
+    text-decoration: none;
 }
 
 .navbar-container{
