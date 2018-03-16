@@ -12,7 +12,7 @@
 
 .padder h5{
     font-weight: 300;
-    font-size:1.1em;
+    font-size:1.0em;
     margin-bottom: 0px;
 }
 #accordion li{
@@ -27,6 +27,25 @@
 
 #accordion a{
     text-decoration: none;
+    font-size: 1.0em !important;
+
+}
+
+.price{
+    padding: 20px 0;
+}
+.price {
+    padding: 20px 0;
+}
+
+.shopping .item{
+    background: #d7d9da;
+    padding:10px 0 15px 0;
+    margin:10px 10px 30px;
+    width:20%;
+}
+#accordion h5{
+    font-size: 1.0em !important;
 }
 
 .navbar-container{
