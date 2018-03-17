@@ -38,6 +38,10 @@
     padding: 20px 0;
 }
 
+.highter{
+    margin-top: 80px;
+}
+
 .shopping .item{
     background: #d7d9da;
     padding:10px 0 15px 0;
@@ -51,6 +55,16 @@
 .navbar-container{
     width:90%;
     margin:  0 auto;
+}
+.product-container{
+    width:70%;
+    padding: 0;
+}
+
+.product{
+    background: #d7d9da;
+    padding: 20px 0;
+    margin: 20px 0;
 }
 
 footer{
